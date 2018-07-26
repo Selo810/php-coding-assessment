@@ -1,0 +1,105 @@
+[24-Jul-2018 04:03:14 UTC] PHP Warning:  require_once(/home/ubuntu/workspace../model/book.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/controller/index.php on line 10
+[24-Jul-2018 04:03:14 UTC] PHP Stack trace:
+[24-Jul-2018 04:03:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 04:03:14 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace../model/book.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/controller/index.php on line 10
+[24-Jul-2018 04:03:14 UTC] PHP Stack trace:
+[24-Jul-2018 04:03:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 04:04:40 UTC] PHP Warning:  require_once(/home/ubuntu/workspace./model/book.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/controller/index.php on line 10
+[24-Jul-2018 04:04:40 UTC] PHP Stack trace:
+[24-Jul-2018 04:04:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 04:04:40 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace./model/book.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/controller/index.php on line 10
+[24-Jul-2018 04:04:40 UTC] PHP Stack trace:
+[24-Jul-2018 04:04:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 04:07:17 UTC] PHP Warning:  require_once(/home/ubuntu/workspace../model/book.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/controller/index.php on line 10
+[24-Jul-2018 04:07:17 UTC] PHP Stack trace:
+[24-Jul-2018 04:07:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 04:07:17 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace../model/book.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/controller/index.php on line 10
+[24-Jul-2018 04:07:17 UTC] PHP Stack trace:
+[24-Jul-2018 04:07:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 04:08:35 UTC] PHP Warning:  require_once(/home/ubuntu/workspace../models/book.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/controller/index.php on line 10
+[24-Jul-2018 04:08:35 UTC] PHP Stack trace:
+[24-Jul-2018 04:08:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 04:08:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace../models/book.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/controller/index.php on line 10
+[24-Jul-2018 04:08:35 UTC] PHP Stack trace:
+[24-Jul-2018 04:08:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 04:12:21 UTC] PHP Warning:  require_once(/home/ubuntu/workspace./model/book.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/controller/index.php on line 10
+[24-Jul-2018 04:12:21 UTC] PHP Stack trace:
+[24-Jul-2018 04:12:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 04:12:21 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspace./model/book.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/controller/index.php on line 10
+[24-Jul-2018 04:12:21 UTC] PHP Stack trace:
+[24-Jul-2018 04:12:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 04:15:27 UTC] PHP Warning:  require_once(/home/ubuntu/workspacemodel/book.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/controller/index.php on line 10
+[24-Jul-2018 04:15:27 UTC] PHP Stack trace:
+[24-Jul-2018 04:15:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 04:15:27 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/ubuntu/workspacemodel/book.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/controller/index.php on line 10
+[24-Jul-2018 04:15:27 UTC] PHP Stack trace:
+[24-Jul-2018 04:15:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 04:20:28 UTC] PHP Warning:  include(../models/book.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/controller/index.php on line 12
+[24-Jul-2018 04:20:28 UTC] PHP Stack trace:
+[24-Jul-2018 04:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 04:20:28 UTC] PHP Warning:  include(): Failed opening '../models/book.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/controller/index.php on line 12
+[24-Jul-2018 04:20:28 UTC] PHP Stack trace:
+[24-Jul-2018 04:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 04:20:28 UTC] PHP Warning:  include(../models/fields.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/controller/index.php on line 13
+[24-Jul-2018 04:20:28 UTC] PHP Stack trace:
+[24-Jul-2018 04:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 04:20:28 UTC] PHP Warning:  include(): Failed opening '../models/fields.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/controller/index.php on line 13
+[24-Jul-2018 04:20:28 UTC] PHP Stack trace:
+[24-Jul-2018 04:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 04:20:28 UTC] PHP Warning:  include(../models/validate.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/controller/index.php on line 14
+[24-Jul-2018 04:20:28 UTC] PHP Stack trace:
+[24-Jul-2018 04:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 04:20:28 UTC] PHP Warning:  include(): Failed opening '../models/validate.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/controller/index.php on line 14
+[24-Jul-2018 04:20:28 UTC] PHP Stack trace:
+[24-Jul-2018 04:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 04:20:28 UTC] PHP Fatal error:  Class 'Book' not found in /home/ubuntu/workspace/controller/index.php on line 20
+[24-Jul-2018 04:20:28 UTC] PHP Stack trace:
+[24-Jul-2018 04:20:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 20:48:28 UTC] PHP Warning:  include(../model/validator.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/controller/index.php on line 6
+[24-Jul-2018 20:48:28 UTC] PHP Stack trace:
+[24-Jul-2018 20:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 20:48:28 UTC] PHP Warning:  include(): Failed opening '../model/validator.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/controller/index.php on line 6
+[24-Jul-2018 20:48:28 UTC] PHP Stack trace:
+[24-Jul-2018 20:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 20:48:28 UTC] PHP Warning:  include(header_view.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/controller/index.php on line 14
+[24-Jul-2018 20:48:28 UTC] PHP Stack trace:
+[24-Jul-2018 20:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 20:48:28 UTC] PHP Warning:  include(): Failed opening 'header_view.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/controller/index.php on line 14
+[24-Jul-2018 20:48:28 UTC] PHP Stack trace:
+[24-Jul-2018 20:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 20:48:28 UTC] PHP Fatal error:  Class 'Validator' not found in /home/ubuntu/workspace/controller/index.php on line 18
+[24-Jul-2018 20:48:28 UTC] PHP Stack trace:
+[24-Jul-2018 20:48:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 20:49:28 UTC] PHP Warning:  include(header_view.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/controller/index.php on line 14
+[24-Jul-2018 20:49:28 UTC] PHP Stack trace:
+[24-Jul-2018 20:49:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 20:49:28 UTC] PHP Warning:  include(): Failed opening 'header_view.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/controller/index.php on line 14
+[24-Jul-2018 20:49:28 UTC] PHP Stack trace:
+[24-Jul-2018 20:49:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 20:49:28 UTC] PHP Fatal error:  Class 'Validator' not found in /home/ubuntu/workspace/controller/index.php on line 18
+[24-Jul-2018 20:49:28 UTC] PHP Stack trace:
+[24-Jul-2018 20:49:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 20:51:00 UTC] PHP Fatal error:  Class 'Validator' not found in /home/ubuntu/workspace/controller/index.php on line 18
+[24-Jul-2018 20:51:00 UTC] PHP Stack trace:
+[24-Jul-2018 20:51:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 20:51:48 UTC] PHP Fatal error:  Class 'Fields' not found in /home/ubuntu/workspace/model/validate.php on line 5
+[24-Jul-2018 20:51:48 UTC] PHP Stack trace:
+[24-Jul-2018 20:51:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[24-Jul-2018 20:51:48 UTC] PHP   2. Validate->__construct() /home/ubuntu/workspace/controller/index.php:18
+[26-Jul-2018 16:47:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/view/book_view.php on line 35
+[26-Jul-2018 16:47:43 UTC] PHP Stack trace:
+[26-Jul-2018 16:47:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/ajaxController.php:0
+[26-Jul-2018 16:47:43 UTC] PHP   2. include() /home/ubuntu/workspace/controller/ajaxController.php:16
+[26-Jul-2018 16:49:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/view/book_view.php on line 35
+[26-Jul-2018 16:49:40 UTC] PHP Stack trace:
+[26-Jul-2018 16:49:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/ajaxController.php:0
+[26-Jul-2018 16:49:40 UTC] PHP   2. include() /home/ubuntu/workspace/controller/ajaxController.php:16
+[26-Jul-2018 17:11:21 UTC] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/ubuntu/workspace/model/book.php on line 20
+[26-Jul-2018 17:11:21 UTC] PHP Stack trace:
+[26-Jul-2018 17:11:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/ajaxController.php:0
+[26-Jul-2018 17:11:21 UTC] PHP   2. Book->getBooksAPI() /home/ubuntu/workspace/controller/ajaxController.php:10
+[26-Jul-2018 17:11:21 UTC] PHP   3. mysql_fetch_row() /home/ubuntu/workspace/model/book.php:20
+[26-Jul-2018 20:33:19 UTC] PHP Warning:  filter_input() expects parameter 1 to be long, string given in /home/ubuntu/workspace/controller/index.php on line 39
+[26-Jul-2018 20:33:19 UTC] PHP Stack trace:
+[26-Jul-2018 20:33:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/controller/index.php:0
+[26-Jul-2018 20:33:19 UTC] PHP   2. filter_input() /home/ubuntu/workspace/controller/index.php:39
